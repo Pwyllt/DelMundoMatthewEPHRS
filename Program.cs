@@ -24,7 +24,7 @@ class Program
         bool running = true;
         while (running)
         {
-            Console.WriteLine("Employee Management System");
+            Console.WriteLine("Employee Payroll System");
             Console.WriteLine("1. Add Employee");
             Console.WriteLine("2. View Employees");
             Console.WriteLine("3. update Employee");
